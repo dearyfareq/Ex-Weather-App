@@ -2,7 +2,9 @@ import React from 'react'
 import "../components/input.css"
 const Input = () => {
   return (
-    <div>input</div>
+    <div>
+        <input type="text" placeholder='City Name' />
+    </div>
   )
 }
 

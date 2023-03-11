@@ -1,0 +1,8 @@
+input{
+    padding: 0.5rem;
+    background-color: whitesmoke;
+    color: #192129;
+    border-radius: 0.7rem;
+    cursor: pointer;
+    text-align: center;
+}
