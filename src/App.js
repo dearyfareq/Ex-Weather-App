@@ -9,7 +9,11 @@ function App() {
 			<div id='stars2'></div>
 			<div id='stars3'></div>
 </div>
-<Input />
+<div className="parent-container">
+  <Input />
+  <Input />
+  <Input />
+</div>
 </div>);
 }
 
